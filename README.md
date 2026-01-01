@@ -17,7 +17,7 @@ Hello, I'm Sami Bouakline.
 
   
 ### Contact Information:
-- :email: **Email:** My email address is samibouakline@gmail.com.
+- :email: **Email:** My email address is bouaklinesami@gmail.com.
 - My phone number is .
 - **LinkedIn:** My LinkedIn profile is [LinkedIn]().
 
